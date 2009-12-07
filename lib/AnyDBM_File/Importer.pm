@@ -2,7 +2,7 @@
 package AnyDBM_File::Importer;
 use strict;
 use warnings;
-our $VERSION = '0.011';
+our $VERSION = '0.012';
 
 =head1 AnyDBM_File::Importer - Import DBM package symbols when using AnyDBM_File
 

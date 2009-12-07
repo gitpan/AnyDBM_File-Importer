@@ -1,4 +1,6 @@
 Revision history for Perl module AnyDBM_File::Importer
+0.012 Mon Dec 07 13:00:00 2009 (UTC)
+    - require perl >=5.8 in Build.PL
 0.011 Sat Dec 05 06:10:00 2009 (UTC)
     - tweaked test to provide your local R_DUP value
     - no material changes

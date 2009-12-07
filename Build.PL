@@ -5,6 +5,7 @@ Module::Build->new
       dist_abstract   => 'Import DBM package symbols when using AnyDBM_File',
       perl            => 5.8,
       requires        => {
+	                  'perl'              => 5.008,
 	                  'AnyDBM_File'       => 0,
                          },
       build_requires  => {
